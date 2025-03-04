@@ -8,6 +8,7 @@ If you are new to Git and GitHub and found this repository through Google: feel 
 2. make changes and push them in a branch of your own fork, 
 3. create a Pull Request in my repository. 
 added line to check
+checking weather its pushing the update r not
 I will get notified, will review the changes that you propose, and eventually will either merge the changes, or reject them. This *may* take some time as I am not actively monitoring nor maintaining this repository, as you can guess, but I try to be helpful ;)
 
 > NOTE
